@@ -1,3 +1,15 @@
 [submodule "thupc21_pre_0"]
 	path = A-C
 	url = git@github.com:yylidiw/thupc21_pre_0.git
+[submodule "D-F"]
+	path = D-F
+	url = git@github.com:yylidiw/thupc21_pre_1.git
+[submodule "G-I"]
+	path = G-I
+	url = git@github.com:yylidiw/thupc21_pre_2.git
+[submodule "J-L"]
+	path = J-L
+	url = git@github.com:yylidiw/thupc21_pre_3.git
+[submodule "M"]
+	path = M
+	url = git@github.com:yylidiw/thupc21_pre_M.git
